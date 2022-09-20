@@ -1,5 +1,5 @@
 
-<a href="https://app.daily.dev/Catvari"><img src="https://api.daily.dev/devcards/bffc2efafdf840eb80288c88798b36f1.png?r=4x0" width="400" alt="Ryan's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Catvari/Catvari/blob/master/devcard.svg" width="400" alt="Ryan's Dev Card"/></a>
 
 
 <!--
