@@ -1,7 +1,6 @@
 
 <a href="https://app.daily.dev/Catvari"><img src="https://api.daily.dev/devcards/bffc2efafdf840eb80288c88798b36f1.png?r=4x0" width="400" alt="Ryan's Dev Card"/></a>
 
-### Hi there 👋
 
 <!--
 **Catvari/Catvari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
