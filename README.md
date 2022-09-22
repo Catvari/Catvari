@@ -40,7 +40,7 @@ I'm specialized in backend development especially database with Microsoft SQL Se
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/Catvari/Catvari/blob/master/devcard.svg" align="center" style="width: 100%" />
+<a href="https://app.daily.dev"><img src="https://github.com/catvari/catvari/blob/main/devcard.svg" width="400" alt="Ryan Riviere's Dev Card"/></a>
 </div>  
 
 
