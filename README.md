@@ -1,4 +1,4 @@
-## Hey 👋, I'm Ryan Rivier!  
+## Hey 👋, I'm Ryan Riviere!  
   
 
 <div align="center">
